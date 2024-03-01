@@ -1,5 +1,6 @@
 ---Training workflow---
 
+0. Create folders (not_preprocessed, sharp, blurred, test) in this directory with readme.txt
 Obtain quality data in JPG format and place it in not_preprocessed dir. (Hubble/Webb data for example)
 
 1. Run Preprocess_make_tiles script, this will populate sharp and blurred folders.
